@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adhd.github.io/static/css/main.7f625a72.css",
-    "main.js": "/adhd.github.io/static/js/main.48020fe2.js",
+    "main.css": "/adhd.github.io/static/css/main.2c0e24a9.css",
+    "main.js": "/adhd.github.io/static/js/main.bcc6a670.js",
     "static/js/453.ac429c60.chunk.js": "/adhd.github.io/static/js/453.ac429c60.chunk.js",
     "index.html": "/adhd.github.io/index.html",
-    "main.7f625a72.css.map": "/adhd.github.io/static/css/main.7f625a72.css.map",
-    "main.48020fe2.js.map": "/adhd.github.io/static/js/main.48020fe2.js.map",
+    "main.2c0e24a9.css.map": "/adhd.github.io/static/css/main.2c0e24a9.css.map",
+    "main.bcc6a670.js.map": "/adhd.github.io/static/js/main.bcc6a670.js.map",
     "453.ac429c60.chunk.js.map": "/adhd.github.io/static/js/453.ac429c60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f625a72.css",
-    "static/js/main.48020fe2.js"
+    "static/css/main.2c0e24a9.css",
+    "static/js/main.bcc6a670.js"
   ]
 }
